@@ -1,4 +1,4 @@
-![Logotipo da UFABC](icones/ufabc.svg?raw=true)
+![Logotipo da UFABC](icones/ufabc.png?raw=true)
 
 # Introdução
 
