@@ -12,7 +12,7 @@ O GT então passa a buscar articulação junto a outros indivíduos e entidades,
 
 Este conteúdo **não tem** afiliação direta com a UFABC, nem é apoiado e/ou representa a opinião da Reitoria. Trata-se de um esforço de um aluno sob demanda do GT.
 
-Opiniões e análises que possam vir a ser publicadas no âmbito do [COMMU (Coletivo Metropolitano de Mobilidade Urbana)](lhttps://medium.com/@commu) **não necessariamente representam as visões da comunidade acadêmica, entidades e do supracitado grupo de trabalho**.
+Opiniões e análises que possam vir a ser publicadas no âmbito do [COMMU (Coletivo Metropolitano de Mobilidade Urbana)](https://medium.com/@commu) **não necessariamente representam as visões da comunidade acadêmica, entidades e do supracitado grupo de trabalho**.
 
 Não reinvindico qualquer tipo de *copyright* sobre o conteúdo aqui disponibilizado, pois entendo que se trata de informação de caráter público, gerada a partir de dados abertos.
 
